@@ -119,3 +119,16 @@ http://localhost:8080/Produto
    ```bash
    ./mvnw spring-boot:run
    ```
+## 6. como vai ficar 
+--Spring initiliazr
+<img width="1639" height="739" alt="Captura de tela 2026-11-04 160740" src="https://github.com/user-attachments/assets/76d10d0e-7671-4b8c-be02-24f0b7f3a038" />
+
+--Postman 
+<img width="1918" height="1028" alt="Captura de tela 2026-11-04 151156" src="https://github.com/user-attachments/assets/228d8568-7162-4cdb-9b7c-23f97cc14ce2" />
+
+--Pagina web 
+<img width="879" height="363" alt="Captura de tela 2026-11-04 152443" src="https://github.com/user-attachments/assets/631cf899-7ace-4d05-a68f-87324bdd799c" />
+
+
+
+
